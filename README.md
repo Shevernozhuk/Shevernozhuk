@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Привіт! 👋 Я [Твоє Ім'я]</h1>
+<h1 align="center">Привіт! 👋 Я Данііл Шевверножук</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=твій_нікнейм" alt="Profile views" />
