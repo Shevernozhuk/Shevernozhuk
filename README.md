@@ -5,18 +5,13 @@
   <img src="https://img.shields.io/github/followers/Shevernozhuk?style=social" alt="GitHub followers" />
 </p>
 
-<p align="center">
-  <a href="https://t.me/danchik328">Telegram</a>
-</p>
-
 ---
 
 ### 👨‍💻 Про мене:
 
-- 🌱 Я зараз навчаюсь **ЗЕТК**
+- 🌱 Я зараз навчаюсь в **ЗЕТК**
 - 💼 Я працюю над **Дипломною роботою**
 - 📫 Можеш зв'язатися зі мною через **daniilsevernozuk@gmail.com**
-- 🌐 Мій вебсайт: **[посилання на сайт, якщо є]**
 
 ---
 
@@ -36,7 +31,7 @@
 ### 📊 GitHub Статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твій_нікнейм&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shevernozhuk&show_icons=true&theme=dark" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shevernozhuk&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
