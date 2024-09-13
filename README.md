@@ -18,7 +18,8 @@
 ### 🛠️ Мої навички:
 
 - 💻 **Мови програмування:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-333?style=flat-square&logo=php)
+
 
 - 🌐 **Технології та фреймворки:**  
   ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
